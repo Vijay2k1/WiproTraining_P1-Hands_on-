@@ -1,0 +1,14 @@
+C:\Users\vas07\source\repos\day2demo\day2demo\bin\Debug\net8.0\day2demo.exe
+C:\Users\vas07\source\repos\day2demo\day2demo\bin\Debug\net8.0\day2demo.deps.json
+C:\Users\vas07\source\repos\day2demo\day2demo\bin\Debug\net8.0\day2demo.runtimeconfig.json
+C:\Users\vas07\source\repos\day2demo\day2demo\bin\Debug\net8.0\day2demo.dll
+C:\Users\vas07\source\repos\day2demo\day2demo\bin\Debug\net8.0\day2demo.pdb
+C:\Users\vas07\source\repos\day2demo\day2demo\obj\Debug\net8.0\day2demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vas07\source\repos\day2demo\day2demo\obj\Debug\net8.0\day2demo.AssemblyInfoInputs.cache
+C:\Users\vas07\source\repos\day2demo\day2demo\obj\Debug\net8.0\day2demo.AssemblyInfo.cs
+C:\Users\vas07\source\repos\day2demo\day2demo\obj\Debug\net8.0\day2demo.csproj.CoreCompileInputs.cache
+C:\Users\vas07\source\repos\day2demo\day2demo\obj\Debug\net8.0\day2demo.dll
+C:\Users\vas07\source\repos\day2demo\day2demo\obj\Debug\net8.0\refint\day2demo.dll
+C:\Users\vas07\source\repos\day2demo\day2demo\obj\Debug\net8.0\day2demo.pdb
+C:\Users\vas07\source\repos\day2demo\day2demo\obj\Debug\net8.0\day2demo.genruntimeconfig.cache
+C:\Users\vas07\source\repos\day2demo\day2demo\obj\Debug\net8.0\ref\day2demo.dll

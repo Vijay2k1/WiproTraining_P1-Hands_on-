@@ -1,0 +1,14 @@
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.exe
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.deps.json
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.runtimeconfig.json
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.dll
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.pdb
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.AssemblyInfo.cs
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.dll
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\obj\Debug\net8.0\refint\MultiCastDelegate.dll
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.pdb
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.genruntimeconfig.cache
+C:\Users\vas07\source\repos\wiproday7\MultiCastDelegate\obj\Debug\net8.0\ref\MultiCastDelegate.dll

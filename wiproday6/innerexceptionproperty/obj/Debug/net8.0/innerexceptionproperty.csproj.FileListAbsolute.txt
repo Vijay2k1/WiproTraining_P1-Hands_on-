@@ -1,0 +1,14 @@
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\bin\Debug\net8.0\innerexceptionproperty.exe
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\bin\Debug\net8.0\innerexceptionproperty.deps.json
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\bin\Debug\net8.0\innerexceptionproperty.runtimeconfig.json
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\bin\Debug\net8.0\innerexceptionproperty.dll
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\bin\Debug\net8.0\innerexceptionproperty.pdb
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.AssemblyInfoInputs.cache
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.AssemblyInfo.cs
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.csproj.CoreCompileInputs.cache
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.dll
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\obj\Debug\net8.0\refint\innerexceptionproperty.dll
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.pdb
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.genruntimeconfig.cache
+C:\Users\vas07\source\repos\wiproday6\innerexceptionproperty\obj\Debug\net8.0\ref\innerexceptionproperty.dll

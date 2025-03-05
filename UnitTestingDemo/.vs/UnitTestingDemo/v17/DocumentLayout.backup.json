@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1683FAA6-7B9D-438D-AB69-76A79B72D052}|TestProjectnunit\\TestProjectnunit.csproj|c:\\users\\vas07\\source\\repos\\unittestingdemo\\testprojectnunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1683FAA6-7B9D-438D-AB69-76A79B72D052}|TestProjectnunit\\TestProjectnunit.csproj|solutionrelative:testprojectnunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54514A59-0D1A-408F-B237-9AEF6A7CB6E2}|UnitTestingDemo\\UnitTestingDemo.csproj|c:\\users\\vas07\\source\\repos\\unittestingdemo\\unittestingdemo\\mathop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54514A59-0D1A-408F-B237-9AEF6A7CB6E2}|UnitTestingDemo\\UnitTestingDemo.csproj|solutionrelative:unittestingdemo\\mathop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54514A59-0D1A-408F-B237-9AEF6A7CB6E2}|UnitTestingDemo\\UnitTestingDemo.csproj|c:\\users\\vas07\\source\\repos\\unittestingdemo\\unittestingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54514A59-0D1A-408F-B237-9AEF6A7CB6E2}|UnitTestingDemo\\UnitTestingDemo.csproj|solutionrelative:unittestingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F877DB0-9952-4399-BF17-20FD211BC14E}|MSTest\\MSTest.csproj|c:\\users\\vas07\\source\\repos\\unittestingdemo\\mstest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F877DB0-9952-4399-BF17-20FD211BC14E}|MSTest\\MSTest.csproj|solutionrelative:mstest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045850FA-D490-4606-966B-6D104313D33A}|TestProjectXunit\\TestProjectXunit.csproj|c:\\users\\vas07\\source\\repos\\unittestingdemo\\testprojectxunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045850FA-D490-4606-966B-6D104313D33A}|TestProjectXunit\\TestProjectXunit.csproj|solutionrelative:testprojectxunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1683FAA6-7B9D-438D-AB69-76A79B72D052}|TestProjectnunit\\TestProjectnunit.csproj|c:\\users\\vas07\\source\\repos\\unittestingdemo\\testprojectnunit\\testprojectnunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1683FAA6-7B9D-438D-AB69-76A79B72D052}|TestProjectnunit\\TestProjectnunit.csproj|solutionrelative:testprojectnunit\\testprojectnunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestProjectnunit",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\TestProjectnunit\\TestProjectnunit.csproj",
+              "RelativeDocumentMoniker": "TestProjectnunit\\TestProjectnunit.csproj",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\TestProjectnunit\\TestProjectnunit.csproj",
+              "RelativeToolTip": "TestProjectnunit\\TestProjectnunit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T06:14:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\TestProjectnunit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProjectnunit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\TestProjectnunit\\UnitTest1.cs",
+              "RelativeToolTip": "TestProjectnunit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:13:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOp.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\UnitTestingDemo\\MathOp.cs",
+              "RelativeDocumentMoniker": "UnitTestingDemo\\MathOp.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\UnitTestingDemo\\MathOp.cs",
+              "RelativeToolTip": "UnitTestingDemo\\MathOp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:51:38.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\UnitTestingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestingDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\UnitTestingDemo\\Program.cs",
+              "RelativeToolTip": "UnitTestingDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:43:07.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\TestProjectXunit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProjectXunit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\TestProjectXunit\\UnitTest1.cs",
+              "RelativeToolTip": "TestProjectXunit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:16:20.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\MSTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "MSTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\UnitTestingDemo\\MSTest\\MSTestSettings.cs",
+              "RelativeToolTip": "MSTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:47:59.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

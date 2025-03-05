@@ -1,0 +1,14 @@
+C:\Users\vas07\source\repos\Daysample1\Daysample1\bin\Debug\net8.0\Daysample1.exe
+C:\Users\vas07\source\repos\Daysample1\Daysample1\bin\Debug\net8.0\Daysample1.deps.json
+C:\Users\vas07\source\repos\Daysample1\Daysample1\bin\Debug\net8.0\Daysample1.runtimeconfig.json
+C:\Users\vas07\source\repos\Daysample1\Daysample1\bin\Debug\net8.0\Daysample1.dll
+C:\Users\vas07\source\repos\Daysample1\Daysample1\bin\Debug\net8.0\Daysample1.pdb
+C:\Users\vas07\source\repos\Daysample1\Daysample1\obj\Debug\net8.0\Daysample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vas07\source\repos\Daysample1\Daysample1\obj\Debug\net8.0\Daysample1.AssemblyInfoInputs.cache
+C:\Users\vas07\source\repos\Daysample1\Daysample1\obj\Debug\net8.0\Daysample1.AssemblyInfo.cs
+C:\Users\vas07\source\repos\Daysample1\Daysample1\obj\Debug\net8.0\Daysample1.csproj.CoreCompileInputs.cache
+C:\Users\vas07\source\repos\Daysample1\Daysample1\obj\Debug\net8.0\Daysample1.dll
+C:\Users\vas07\source\repos\Daysample1\Daysample1\obj\Debug\net8.0\refint\Daysample1.dll
+C:\Users\vas07\source\repos\Daysample1\Daysample1\obj\Debug\net8.0\Daysample1.pdb
+C:\Users\vas07\source\repos\Daysample1\Daysample1\obj\Debug\net8.0\Daysample1.genruntimeconfig.cache
+C:\Users\vas07\source\repos\Daysample1\Daysample1\obj\Debug\net8.0\ref\Daysample1.dll

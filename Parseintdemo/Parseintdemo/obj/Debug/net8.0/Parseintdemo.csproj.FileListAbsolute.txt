@@ -1,0 +1,14 @@
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\bin\Debug\net8.0\Parseintdemo.exe
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\bin\Debug\net8.0\Parseintdemo.deps.json
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\bin\Debug\net8.0\Parseintdemo.runtimeconfig.json
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\bin\Debug\net8.0\Parseintdemo.dll
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\bin\Debug\net8.0\Parseintdemo.pdb
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\obj\Debug\net8.0\Parseintdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\obj\Debug\net8.0\Parseintdemo.AssemblyInfoInputs.cache
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\obj\Debug\net8.0\Parseintdemo.AssemblyInfo.cs
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\obj\Debug\net8.0\Parseintdemo.csproj.CoreCompileInputs.cache
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\obj\Debug\net8.0\Parseintdemo.dll
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\obj\Debug\net8.0\refint\Parseintdemo.dll
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\obj\Debug\net8.0\Parseintdemo.pdb
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\obj\Debug\net8.0\Parseintdemo.genruntimeconfig.cache
+C:\Users\vas07\source\repos\Parseintdemo\Parseintdemo\obj\Debug\net8.0\ref\Parseintdemo.dll

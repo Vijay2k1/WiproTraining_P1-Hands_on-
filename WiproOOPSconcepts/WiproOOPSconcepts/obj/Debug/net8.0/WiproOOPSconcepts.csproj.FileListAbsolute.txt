@@ -1,0 +1,14 @@
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\bin\Debug\net8.0\WiproOOPSconcepts.exe
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\bin\Debug\net8.0\WiproOOPSconcepts.deps.json
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\bin\Debug\net8.0\WiproOOPSconcepts.runtimeconfig.json
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\bin\Debug\net8.0\WiproOOPSconcepts.dll
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\bin\Debug\net8.0\WiproOOPSconcepts.pdb
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\obj\Debug\net8.0\WiproOOPSconcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\obj\Debug\net8.0\WiproOOPSconcepts.AssemblyInfoInputs.cache
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\obj\Debug\net8.0\WiproOOPSconcepts.AssemblyInfo.cs
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\obj\Debug\net8.0\WiproOOPSconcepts.csproj.CoreCompileInputs.cache
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\obj\Debug\net8.0\WiproOOPSconcepts.dll
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\obj\Debug\net8.0\refint\WiproOOPSconcepts.dll
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\obj\Debug\net8.0\WiproOOPSconcepts.pdb
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\obj\Debug\net8.0\WiproOOPSconcepts.genruntimeconfig.cache
+C:\Users\vas07\source\repos\WiproOOPSconcepts\WiproOOPSconcepts\obj\Debug\net8.0\ref\WiproOOPSconcepts.dll

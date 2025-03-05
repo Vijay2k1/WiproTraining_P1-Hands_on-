@@ -1,0 +1,14 @@
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\bin\Debug\net8.0\GenericInterface.exe
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\bin\Debug\net8.0\GenericInterface.deps.json
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\bin\Debug\net8.0\GenericInterface.runtimeconfig.json
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\bin\Debug\net8.0\GenericInterface.dll
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\bin\Debug\net8.0\GenericInterface.pdb
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\obj\Debug\net8.0\GenericInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\obj\Debug\net8.0\GenericInterface.AssemblyInfoInputs.cache
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\obj\Debug\net8.0\GenericInterface.AssemblyInfo.cs
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\obj\Debug\net8.0\GenericInterface.csproj.CoreCompileInputs.cache
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\obj\Debug\net8.0\GenericInterface.dll
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\obj\Debug\net8.0\refint\GenericInterface.dll
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\obj\Debug\net8.0\GenericInterface.pdb
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\obj\Debug\net8.0\GenericInterface.genruntimeconfig.cache
+C:\Users\vas07\source\repos\wiproday6\GenericInterface\obj\Debug\net8.0\ref\GenericInterface.dll

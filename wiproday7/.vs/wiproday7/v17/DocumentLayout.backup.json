@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vas07\\source\\repos\\wiproday7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2868F807-7F70-473C-950B-93D92BF2A5E5}|Reflection\\Reflection.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\reflection\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2868F807-7F70-473C-950B-93D92BF2A5E5}|Reflection\\Reflection.csproj|solutionrelative:reflection\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2868F807-7F70-473C-950B-93D92BF2A5E5}|Reflection\\Reflection.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2868F807-7F70-473C-950B-93D92BF2A5E5}|Reflection\\Reflection.csproj|solutionrelative:reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97221C9A-708E-4980-972F-44188DF61557}|Threading\\Threading.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97221C9A-708E-4980-972F-44188DF61557}|Threading\\Threading.csproj|solutionrelative:threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78E2A2-FF4F-4173-8662-779E295BAF01}|GenericDelegate\\GenericDelegate.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\genericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78E2A2-FF4F-4173-8662-779E295BAF01}|GenericDelegate\\GenericDelegate.csproj|solutionrelative:genericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78E2A2-FF4F-4173-8662-779E295BAF01}|GenericDelegate\\GenericDelegate.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\genericdelegate\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78E2A2-FF4F-4173-8662-779E295BAF01}|GenericDelegate\\GenericDelegate.csproj|solutionrelative:genericdelegate\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA01F6-92CC-4BFD-8C81-3A6515DA3CAB}|Events\\Events.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA01F6-92CC-4BFD-8C81-3A6515DA3CAB}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA01F6-92CC-4BFD-8C81-3A6515DA3CAB}|Events\\Events.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\events\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA01F6-92CC-4BFD-8C81-3A6515DA3CAB}|Events\\Events.csproj|solutionrelative:events\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA01F6-92CC-4BFD-8C81-3A6515DA3CAB}|Events\\Events.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\events\\emailsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA01F6-92CC-4BFD-8C81-3A6515DA3CAB}|Events\\Events.csproj|solutionrelative:events\\emailsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FA01F6-92CC-4BFD-8C81-3A6515DA3CAB}|Events\\Events.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\events\\logsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FA01F6-92CC-4BFD-8C81-3A6515DA3CAB}|Events\\Events.csproj|solutionrelative:events\\logsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B59E7-6004-447F-A1B3-64DE08089885}|Co\u0026ContraVarience\\Co\u0026ContraVarience.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\co\u0026contravarience\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9B59E7-6004-447F-A1B3-64DE08089885}|Co\u0026ContraVarience\\Co\u0026ContraVarience.csproj|solutionrelative:co\u0026contravarience\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B59E7-6004-447F-A1B3-64DE08089885}|Co\u0026ContraVarience\\Co\u0026ContraVarience.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\co\u0026contravarience\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9B59E7-6004-447F-A1B3-64DE08089885}|Co\u0026ContraVarience\\Co\u0026ContraVarience.csproj|solutionrelative:co\u0026contravarience\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FC423A-2AF2-4FE1-A4C9-2D1F97B87A6D}|MultiCastDelegate\\MultiCastDelegate.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\multicastdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FC423A-2AF2-4FE1-A4C9-2D1F97B87A6D}|MultiCastDelegate\\MultiCastDelegate.csproj|solutionrelative:multicastdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FC423A-2AF2-4FE1-A4C9-2D1F97B87A6D}|MultiCastDelegate\\MultiCastDelegate.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\multicastdelegate\\mathope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FC423A-2AF2-4FE1-A4C9-2D1F97B87A6D}|MultiCastDelegate\\MultiCastDelegate.csproj|solutionrelative:multicastdelegate\\mathope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF543703-080F-42A9-8B53-C5ABD67CEB6B}|WhyDelegates\\WhyDelegates.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\whydelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF543703-080F-42A9-8B53-C5ABD67CEB6B}|WhyDelegates\\WhyDelegates.csproj|solutionrelative:whydelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF543703-080F-42A9-8B53-C5ABD67CEB6B}|WhyDelegates\\WhyDelegates.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\whydelegates\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF543703-080F-42A9-8B53-C5ABD67CEB6B}|WhyDelegates\\WhyDelegates.csproj|solutionrelative:whydelegates\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5493BA8-9F3F-463F-8B2A-4F5D1DAE5597}|wiproday7\\wiproday7.csproj|c:\\users\\vas07\\source\\repos\\wiproday7\\wiproday7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5493BA8-9F3F-463F-8B2A-4F5D1DAE5597}|wiproday7\\wiproday7.csproj|solutionrelative:wiproday7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Reflection\\Employee.cs",
+              "RelativeDocumentMoniker": "Reflection\\Employee.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Reflection\\Employee.cs",
+              "RelativeToolTip": "Reflection\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:44:41.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "Reflection\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Reflection\\Program.cs",
+              "RelativeToolTip": "Reflection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:44:01.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Threading\\Program.cs",
+              "RelativeDocumentMoniker": "Threading\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Threading\\Program.cs",
+              "RelativeToolTip": "Threading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:05:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\GenericDelegate\\Vehicle.cs",
+              "RelativeDocumentMoniker": "GenericDelegate\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\GenericDelegate\\Vehicle.cs",
+              "RelativeToolTip": "GenericDelegate\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:59:44.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\GenericDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "GenericDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\GenericDelegate\\Program.cs",
+              "RelativeToolTip": "GenericDelegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:59:10.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailSubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Events\\EmailSubscriber.cs",
+              "RelativeDocumentMoniker": "Events\\EmailSubscriber.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Events\\EmailSubscriber.cs",
+              "RelativeToolTip": "Events\\EmailSubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:54:08.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogSubscriber.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Events\\LogSubscriber.cs",
+              "RelativeDocumentMoniker": "Events\\LogSubscriber.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Events\\LogSubscriber.cs",
+              "RelativeToolTip": "Events\\LogSubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:53:28.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Events\\Publisher.cs",
+              "RelativeDocumentMoniker": "Events\\Publisher.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Events\\Publisher.cs",
+              "RelativeToolTip": "Events\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:52:44.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:51:54.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Co\u0026ContraVarience\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Co\u0026ContraVarience\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Co\u0026ContraVarience\\Vehicle.cs",
+              "RelativeToolTip": "Co\u0026ContraVarience\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:13:49.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Co\u0026ContraVarience\\Program.cs",
+              "RelativeDocumentMoniker": "Co\u0026ContraVarience\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\Co\u0026ContraVarience\\Program.cs",
+              "RelativeToolTip": "Co\u0026ContraVarience\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:13:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MathOpe.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\MultiCastDelegate\\MathOpe.cs",
+              "RelativeDocumentMoniker": "MultiCastDelegate\\MathOpe.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\MultiCastDelegate\\MathOpe.cs",
+              "RelativeToolTip": "MultiCastDelegate\\MathOpe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:09:12.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\MultiCastDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "MultiCastDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\MultiCastDelegate\\Program.cs",
+              "RelativeToolTip": "MultiCastDelegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:08:35.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\WhyDelegates\\Employee.cs",
+              "RelativeDocumentMoniker": "WhyDelegates\\Employee.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\WhyDelegates\\Employee.cs",
+              "RelativeToolTip": "WhyDelegates\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:06:45.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\WhyDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "WhyDelegates\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\WhyDelegates\\Program.cs",
+              "RelativeToolTip": "WhyDelegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:06:18.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday7\\wiproday7\\Program.cs",
+              "RelativeDocumentMoniker": "wiproday7\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday7\\wiproday7\\Program.cs",
+              "RelativeToolTip": "wiproday7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA/wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:04:29.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\vas07\source\repos\wiproday7\wiproday7\bin\Debug\net8.0\Delegates.exe
+C:\Users\vas07\source\repos\wiproday7\wiproday7\bin\Debug\net8.0\Delegates.deps.json
+C:\Users\vas07\source\repos\wiproday7\wiproday7\bin\Debug\net8.0\Delegates.runtimeconfig.json
+C:\Users\vas07\source\repos\wiproday7\wiproday7\bin\Debug\net8.0\Delegates.dll
+C:\Users\vas07\source\repos\wiproday7\wiproday7\bin\Debug\net8.0\Delegates.pdb
+C:\Users\vas07\source\repos\wiproday7\wiproday7\obj\Debug\net8.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vas07\source\repos\wiproday7\wiproday7\obj\Debug\net8.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\vas07\source\repos\wiproday7\wiproday7\obj\Debug\net8.0\Delegates.AssemblyInfo.cs
+C:\Users\vas07\source\repos\wiproday7\wiproday7\obj\Debug\net8.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\vas07\source\repos\wiproday7\wiproday7\obj\Debug\net8.0\Delegates.dll
+C:\Users\vas07\source\repos\wiproday7\wiproday7\obj\Debug\net8.0\refint\Delegates.dll
+C:\Users\vas07\source\repos\wiproday7\wiproday7\obj\Debug\net8.0\Delegates.pdb
+C:\Users\vas07\source\repos\wiproday7\wiproday7\obj\Debug\net8.0\Delegates.genruntimeconfig.cache
+C:\Users\vas07\source\repos\wiproday7\wiproday7\obj\Debug\net8.0\ref\Delegates.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vas07\\source\\repos\\wiproday6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB38F3D-0B1E-4759-B10D-94BDE75A413F}|innerexceptionproperty\\innerexceptionproperty.csproj|c:\\users\\vas07\\source\\repos\\wiproday6\\innerexceptionproperty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB38F3D-0B1E-4759-B10D-94BDE75A413F}|innerexceptionproperty\\innerexceptionproperty.csproj|solutionrelative:innerexceptionproperty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25AF7D-87B2-4534-A199-627A8D2A1732}|GenericInterface\\GenericInterface.csproj|c:\\users\\vas07\\source\\repos\\wiproday6\\genericinterface\\roomac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25AF7D-87B2-4534-A199-627A8D2A1732}|GenericInterface\\GenericInterface.csproj|solutionrelative:genericinterface\\roomac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25AF7D-87B2-4534-A199-627A8D2A1732}|GenericInterface\\GenericInterface.csproj|c:\\users\\vas07\\source\\repos\\wiproday6\\genericinterface\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25AF7D-87B2-4534-A199-627A8D2A1732}|GenericInterface\\GenericInterface.csproj|solutionrelative:genericinterface\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25AF7D-87B2-4534-A199-627A8D2A1732}|GenericInterface\\GenericInterface.csproj|c:\\users\\vas07\\source\\repos\\wiproday6\\genericinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25AF7D-87B2-4534-A199-627A8D2A1732}|GenericInterface\\GenericInterface.csproj|solutionrelative:genericinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D6C1B8-B07D-44C3-BBA8-D57FEC14749E}|wiproday6\\wiproday6.csproj|c:\\users\\vas07\\source\\repos\\wiproday6\\wiproday6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D6C1B8-B07D-44C3-BBA8-D57FEC14749E}|wiproday6\\wiproday6.csproj|solutionrelative:wiproday6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25AF7D-87B2-4534-A199-627A8D2A1732}|GenericInterface\\GenericInterface.csproj|c:\\users\\vas07\\source\\repos\\wiproday6\\genericinterface\\roomnonac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25AF7D-87B2-4534-A199-627A8D2A1732}|GenericInterface\\GenericInterface.csproj|solutionrelative:genericinterface\\roomnonac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25AF7D-87B2-4534-A199-627A8D2A1732}|GenericInterface\\GenericInterface.csproj|c:\\users\\vas07\\source\\repos\\wiproday6\\genericinterface\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25AF7D-87B2-4534-A199-627A8D2A1732}|GenericInterface\\GenericInterface.csproj|solutionrelative:genericinterface\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday6\\innerexceptionproperty\\Program.cs",
+              "RelativeDocumentMoniker": "innerexceptionproperty\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday6\\innerexceptionproperty\\Program.cs",
+              "RelativeToolTip": "innerexceptionproperty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:43:38.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomAC.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday6\\GenericInterface\\RoomAC.cs",
+              "RelativeDocumentMoniker": "GenericInterface\\RoomAC.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday6\\GenericInterface\\RoomAC.cs",
+              "RelativeToolTip": "GenericInterface\\RoomAC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:33:47.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday6\\GenericInterface\\Hotel.cs",
+              "RelativeDocumentMoniker": "GenericInterface\\Hotel.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday6\\GenericInterface\\Hotel.cs",
+              "RelativeToolTip": "GenericInterface\\Hotel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:33:18.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday6\\GenericInterface\\Program.cs",
+              "RelativeDocumentMoniker": "GenericInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday6\\GenericInterface\\Program.cs",
+              "RelativeToolTip": "GenericInterface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:30:24.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday6\\wiproday6\\Program.cs",
+              "RelativeDocumentMoniker": "wiproday6\\Program.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday6\\wiproday6\\Program.cs",
+              "RelativeToolTip": "wiproday6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:20:08.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomNonAC.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday6\\GenericInterface\\RoomNonAC.cs",
+              "RelativeDocumentMoniker": "GenericInterface\\RoomNonAC.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday6\\GenericInterface\\RoomNonAC.cs",
+              "RelativeToolTip": "GenericInterface\\RoomNonAC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:34:20.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRoom.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\wiproday6\\GenericInterface\\IRoom.cs",
+              "RelativeDocumentMoniker": "GenericInterface\\IRoom.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\wiproday6\\GenericInterface\\IRoom.cs",
+              "RelativeToolTip": "GenericInterface\\IRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T05:32:35.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

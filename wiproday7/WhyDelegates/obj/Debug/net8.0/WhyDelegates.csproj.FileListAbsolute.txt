@@ -1,0 +1,14 @@
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\bin\Debug\net8.0\WhyDelegates.exe
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\bin\Debug\net8.0\WhyDelegates.deps.json
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\bin\Debug\net8.0\WhyDelegates.runtimeconfig.json
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\bin\Debug\net8.0\WhyDelegates.dll
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\bin\Debug\net8.0\WhyDelegates.pdb
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\obj\Debug\net8.0\WhyDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\obj\Debug\net8.0\WhyDelegates.AssemblyInfoInputs.cache
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\obj\Debug\net8.0\WhyDelegates.AssemblyInfo.cs
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\obj\Debug\net8.0\WhyDelegates.csproj.CoreCompileInputs.cache
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\obj\Debug\net8.0\WhyDelegates.dll
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\obj\Debug\net8.0\refint\WhyDelegates.dll
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\obj\Debug\net8.0\WhyDelegates.pdb
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\obj\Debug\net8.0\WhyDelegates.genruntimeconfig.cache
+C:\Users\vas07\source\repos\wiproday7\WhyDelegates\obj\Debug\net8.0\ref\WhyDelegates.dll
